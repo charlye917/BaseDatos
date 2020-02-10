@@ -1,0 +1,5 @@
+select constraint_name, constraint_type
+from user_constraints
+where owner = 'consultora_bdd'
+
+/
