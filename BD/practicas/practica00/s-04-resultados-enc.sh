@@ -1,0 +1,139 @@
+RP^3:?^32D9
+
+7G0=:DE0AC67:IWXL
+  A0:?56IlS`j
+  FD6ClS&$t#j
+  9@DElSw~$%}p|t
+  J62Cl152E6 VZT*V1
+  >@?E9l152E6 VZT>V1
+  52Jl152E6 VZT5V1
+  E:>6l152E6 VZTwiT|iT$V1
+  9@DE0=6?8E9l1649@ \? S9@DE M H4 \>1
+  FD6C0=6?8E9l1649@ \? SFD6C M H4 \>1
+  E@E2=0=6?8E9lSWWS9@DE0=6?8E9ZSFD6C0=6?8E9XXj
+
+  :7 , SA0:?56I \6B Q_Q .j E96?
+    A0:?56Il`
+  7:j
+
+  9@DE0:?56IlSA0:?56I
+  FD6C0:?56IlSA0:?56I
+
+  :7 , SA0:?56I \8E S9@DE0=6?8E9 .j E96?
+    9@DE0:?56IlSWWS9@DE0:?56ITS9@DE0=6?8E9XX
+  7:j
+
+  :7 , SA0:?56I \8E SFD6C0=6?8E9 .j E96?
+     FD6C0:?56IlSWWSFD6C0:?56ITSFD6C0=6?8E9XX
+  7:j
+
+  :7 , S9@DE0:?56I \6B Q_Q .j E96?
+    9@DE0:?56IlS9@DE0=6?8E9j
+  7:j
+
+  :7 , SFD6C0:?56I \6B Q_Q .j E96?
+    FD6C0:?56IlSFD6C0=6?8E9j
+  7:j
+
+  =6EE6C09@DElSW649@ S9@DE M 4FE \4S9@DE0:?56IX
+  =6EE6C0FD6ClSW649@ SFD6C M 4FE \4SFD6C0:?56IX
+
+  C@Hl1649@ __S9@DE0:?56I M E2:= \4c1
+  C@HZl1649@ __SE@E2=0=6?8E9 M E2:= \4c1
+  C@HZlQ\Q
+  C@HZl1649@ QS=6EE6C0FD6CQ M EC V,i=@H6Ci.V V,iFAA6Ci.V1 
+  C@HZlQSJ62C\Q
+  C@HZl1649@ _S>@?E9 M E2:= \4b1
+  C@HZlQ\Q
+  C@HZl1649@ _S52J M E2:= \4b1
+  C@HZl1649@ QS=6EE6C09@DEQ M EC V,i=@H6Ci.V V,iFAA6Ci.V1 
+  C@HZlQSE:>6Q
+  649@ SC@Hj
+N
+
+DF5@ 649@ Q!C@A@C4:@?6 A2DDH@C5 56= FDF2C:@ S&$t#Q
+9@DE?2>6l142E ^6E4^9@DE?2>61
+AC@5F4El1DF5@ =D9H \4=2DD DJDE6> M 68C6A \: \6 VAC@5F4E@MAC@5F4EV MI2C8D 1
+@Dl142E ^6E4^@D\C6=62D6 M 8C6A !#t%%*0}p|t1
+9@DE0=6?8E9lSLR9@DE?2>6N
+FD6C0=6?8E9lSLR&$t#N
+92D9lSWWS9@DE0=6?8E9ZSFD6C0=6?8E9XX
+
+649@ Qllllllllll s2E@D 56= tBF:A@ llllllllll Qj
+649@ Q`] {6?8F2;6 ]]]]]]]]]]]]]]]]]]]]]]] S{p}vQ
+649@ Qa] }@>3C6 56= w@DE ]]]]]]]]]]]]]]]] S9@DE?2>6Q
+649@ Qb] }@>3C6 56= FDF2C:@ ]]]]]]]]]]]]] S&$t#Q
+649@ Qc] $:DE6>2 @A6C2E:G@ ]]]]]]]]]]]]]] S@DQ 
+649@ Qd] !C@5F4E@ ]]]]]]]]]]]]]]]]]]]]]]] SAC@5F4EQ 
+649@ Qe] &D6C 9D9 ]]]]]]]]]]]]]]]]]]]]]]] S92D9Q 
+
+649@ QQ
+649@ Qlllllllll '2=:52?5@ t;6C4:4:@D llllllllllQ
+
+45 O^s6D<E@A
+:7 P , \5 35^AC24E:42_ .j E96?
+  649@ Qt##~#i  }@ D6 6?4@?ECó 6= 5:C64E@C:@ s6D<E@A^35^AC24E:42_Q
+7:
+
+R5:C64E@C:@ 6`
+:7 P , \5 35^AC24E:42_^6` .j E96?
+  649@ Qt##~#i  }@ D6 6?4@?ECó 6= 5:C64E@C:@ s6D<E@A^35^AC24E:42_^6`Q
+7:
+
+:7 P , \7 35^AC24E:42_^6`^D2=F5@]EIE .j E96?
+  649@ Qt##~#i  }@ D6 6?4@?ECó 6= 2C49:G@ s6D<E@A^35^AC24E:42_^6`^D2=F5@]EIEQ
+  
+6=D6
+  649@ Qlllm `] QSW7G0=:DE0AC67:I `XQ ~z \ 2C49:G@ 6`^D2=F5@]EIE 6?4@?EC25@Q
+7:
+
+?@>3C6l142E 35^AC24E:42_^6`^D2=F5@]EIE M 8C6A V?@>3C6V1
+
+:7 , QS?@>3C6Q l QQ .j E96?
+  649@ Qt##~#i 4@?E6?:5@ :?G2=:5@ @ G24:@ 56= 2C49:G@ 6`^D2=F5@]EIEQ
+6=D6
+  452E6lQ152E6 ZT*T>T5TD1_aQ
+  649@ Qlllm a] QSW7G0=:DE0AC67:I aXQ ~z \ 4@?E6?:5@ G2=:5@ 56 6`^D2=F5@]EIEQ
+  649@ Qlllm b] QSW7G0=:DE0AC67:I bXQ ~z \ S?@>3C6Q
+7:
+R5:C64E@C:@ 6a
+:7 P , \5 35^AC24E:42_^6a .j E96?
+  649@ Qt##~#i  }@ D6 6?4@?ECó 6= 5:C64E@C:@ s6D<E@A^35^AC24E:42_^6aQ
+7:
+
+:7 P , \{ 35^AC24E:42_^6a^D2=F5@]EIE \2 \7 35^AC24E:42_^6a^D2=F5@]EIE .j E96?
+  649@ Qt##~#i  }@ D6 6?4@?ECó =2 =:82 s6D<E@A^35^AC24E:42_^6a^D2=F5@]EIEQ
+  
+6=D6
+  649@ Qlllm c] QSW7G0=:DE0AC67:I cXQ ~z \ {:82 6a^D2=F5@]EIE 6?4@?EC252Q    
+7:
+
+R5:C64E@C:@ 6aa
+:7 P , \5 35^AC24E:42_^6aa .j E96?
+  649@ Qt##~#i  }@ D6 6?4@?ECó 6= 5:C64E@C:@ s6D<E@A^35^AC24E:42_^6aaQ
+  
+7:
+@H?6Cl1DE2E \4 VT&V 35^AC24E:42_^6aa^@EC@\D2=F5@]EIE1
+8C@FAl1DE2E \4 VTvV 35^AC24E:42_^6aa^@EC@\D2=F5@]EIE1
+A6C>:DD:@?Dl1DE2E \4 QT2Q 35^AC24E:42_^6aa^@EC@\D2=F5@]EIE1
+
+:7 , QS@H?6CQ Pl QC@@EQ .j E96?
+  649@ Qt##~#i t= 5F6ñ@ 56= 2C49:G@ 35^AC24E:42_^6aa^@EC@\D2=F5@]EIE ?@ 6D C@@EQ
+6=D6
+  649@ Qlllm d] QSW7G0=:DE0AC67:I dXQ ~z \ AC@A:6E2C:@ 56= 2C49:G@ 6aa^@EC@\D2=F5@]EIE 6D C@@EQ
+7:
+
+:7 , QS8C@FAQ Pl QC@@EQ .j E96?
+  649@ Qt##~#i t= 5F6ñ@ 56= 2C49:G@ 35^AC24E:42_^6aa^@EC@\D2=F5@]EIE ?@ 6D C@@EQ
+6=D6
+  649@ Qlllm e] QSW7G0=:DE0AC67:I eXQ ~z \ 8CFA@ 56= 2C49:G@ 6aa^@EC@\D2=F5@]EIE 6D C@@EQ
+7:
+
+:7 , QSA6C>:DD:@?DQ Pl Qf__Q .j E96?
+  649@ Qt##~#i {@D A6C>:D@D 56= 2C49:G@ 6aa^@EC@\D2=F5@]EIE ?@ 6D CHI\\\\\\ Q
+6=D6
+  452E6lQ152E6 ZT*T>T5TD1_eQ
+  649@ Qlllm f] QSW7G0=:DE0AC67:I fXQ ~z \ A6C>:D@D 4@CC64E@D A2C2 6= 2C49:G@ 6aa^@EC@\D2=F5@]EIEQ
+7:
+
+649@ Q{:DE@ PQ

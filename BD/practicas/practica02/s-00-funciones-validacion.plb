@@ -1,0 +1,92 @@
+
+create or replace function  fv_hash wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+12d 117
+psK+AxbtJHutB9IBMma3GprBXqwwgzLILZ4VfC9ATLp92pEMHZBxomVjKT02g5kU3rM+U1q/
+ryYoIPHl5+BAuP4QtbK/c0Yl9tZdM+fZgbzDATivrm/6VtjDFbn0n/P/r0L4OIE3COV+7hp/
+e1sdWq5flDW9sPzjGOTt1ysPccg5AG4QLklbb7joslzUQpdhhUVgpeX52/CZJmuKF6kUSuA2
+JQ2tt0Ig13UuYN63rCrG5ASzfbIx321mgJihdOQe56GbEfvavBLhBS7pCg==
+
+/
+show errors
+
+create or replace function fv_list_prefix wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+6bb 312
+DFAECgBayY89iAf2RyQmtH6P2fcwg5BcLm0FfI6KKgL5W1UU1tNuikhrUrqlBzTftMDIXfUS
+mwGYfg43JYkl5j/PT34M94wyPrI32yDYWEILKa0gQuWXQIywT1WxaimA/s34nLBqlsIeok69
+CGHcdWevE7GZr8PVV4PGZmLgLTVjRga8t/K0q5MHOC+BQ1Ypo/p2ff/K3mraHLGKRE0RGuw3
+8kEtW9l7tGZ49Z66/IhomxJT40I8d+i8iPy9mJat3aWN2OAm5psDd2YYABasDbbU/nXgjG0d
+e79tp9T74eXp+lzW0a1p9d52j3Gp0Njw1XymnAG5aJ5Y1pXl5uVwg3UTizMdFXbRCYVNXQmV
+egFUeMYwQJfPcP0FUGE5vK+XBArMsbX4rKAcQFWlHAJK0tL3qfl7wPuxMY4t0K/K2PF018gz
+lwPbIvzxKH0GxUYiJSb/gMN/P2Se4APn+TwRVZFd5VkArMrssQ1iVxXoi9WYspgln1s6dl4I
+lcNVYF1NE+xkuTn85RN7ga3PMr8UptCsThsKVH8luZ+4j5ET3Xa+RoBk60xb+5VVwERJPnSE
+dl+g63Mk2SfWm/ETQzKYQUMN8zBYNN0e/4jKlC7ZgvFsDXZtChBxDV807Yy7Fd3RUIZcuhF7
+AC+9WR9cPHRKv+2MznjPp8aGmwjzACQgSMTGajP1o0M6sjwd+M/UDGi1i3Aqp5Ua34h7wcej
+fUA5SWrg7zEsZhhOo/5/0So6c8Yl2dg6wY33TjOzN90qfuJ9PSwqEy0q
+
+/
+show errors
+
+create or replace function fv_ok_prefix wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+139 130
+iNW9hc+QsiEeCxrr8Fg03whoCIEwgwKuLpmsZy/N7FCqdQXFkXUyCXTktNdscQu/jXvNlWa9
+Pp5RDiyao281B4vSi9f4cFqv4KHHOQVte4o9CKAxPOrHJhYMpZ5U9+l1uh2Mci1WV9ZlXVKr
+wB9NUJEmRl0s/3baSkMoX+dyPuux0N2ZpkQ1fNbPOO/XGbtM+bbGPnhJ4oHWAeKDVF7YAhqI
+b2VHp4T16wt48ExcSwW+XmQm7U5CooU27XFN9jCYmOioZliG9asJ5SGOKQ+k4f3ItYHP+PAZ
+fwzkGR1oba64
+
+/
+
